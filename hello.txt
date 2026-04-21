@@ -2,4 +2,4 @@
  1 file changed, 1 insertion(+), 1 deletion(-)
 "Master branch se yeh line hai" 
 "Conflict branch se yeh line hai" 
-My master branch se hoon
+Main real-conflict branch hoon
