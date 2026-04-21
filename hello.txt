@@ -1,5 +1,1 @@
-[master 781b34e] A new line was added to hello.txt
- 1 file changed, 1 insertion(+), 1 deletion(-)
-"Master branch se yeh line hai" 
-"Conflict branch se yeh line hai" 
-Main real-conflict branch hoon
+Conflict branch ki line
